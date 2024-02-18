@@ -1,0 +1,7 @@
+template: Hello %s!
+defaultName: LegoDev user
+---
+logging:
+  level: INFO
+  loggers:
+    io.github.legodev: DEBUG

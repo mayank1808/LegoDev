@@ -1,0 +1,5 @@
+io/github/legodev/resources/WelcomeResource.class
+io/github/legodev/api/WelcomeMessage.class
+io/github/legodev/LegoDevApplication.class
+io/github/legodev/health/WelcomeHealthCheck.class
+io/github/legodev/LegoDevConfiguration.class
